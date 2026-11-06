@@ -20,7 +20,7 @@ for league_id, league_name in LEAGUES.items():
             except ValueError: continue
             if kickoff.tzinfo is None: kickoff = kickoff.replace(tzinfo=dt.timezone.utc)
             # Cache today and tomorrow to allow timezone boundaries and scheduled refreshes.
-            if not (now.date() <= kickoff.astimezone(ZoneInfo("Europe/London")).date() <= now.date()+dt.timedelta(days=1)): continue
+           if not (now.date() <= kickoff.astimezone(ZoneInfo("Europe/London")).date() <= now.date()+dt.timedelta(days=14)): continue
             fixtures.append({"id": str(event.get("idEvent") or ""), "league":league_name,
                 "home":event.get("strHomeTeam") or "", "away":event.get("strAwayTeam") or "",
                 "kickoff_utc":kickoff.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
