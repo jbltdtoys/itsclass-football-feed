@@ -4,14 +4,14 @@ import datetime as dt, json, os, time, urllib.request
 from zoneinfo import ZoneInfo
 
 LEAGUES = {"4328":"Premier League", "4329":"Championship", "4396":"League One", "4397":"League Two", "4330":"Scottish Premiership"}
-API = "https://www.thesportsdb.com/api/v1/json/123/eventsseason.php?id={}&s={}"
+API = "https://www.thesportsdb.com/api/v1/json/123/eventsnextleague.php?id={}"
 now = dt.datetime.now(ZoneInfo("Europe/London"))
 season = f"{now.year if now.month >= 7 else now.year-1}-{now.year+1 if now.month >= 7 else now.year}"
 fixtures = []
 errors = []
 for league_id, league_name in LEAGUES.items():
     try:
-        req = urllib.request.Request(API.format(league_id, season), headers={"User-Agent":"ItsclassTV-FixtureCache/1.0"})
+        req = urllib.request.Request(API.format(league_id), headers={"User-Agent":"ItsclassTV-FixtureCache/1.0"})
         with urllib.request.urlopen(req, timeout=25) as response: payload = json.load(response)
         for event in payload.get("events") or []:
             stamp = event.get("strTimestamp")
