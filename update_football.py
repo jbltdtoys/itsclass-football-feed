@@ -18,10 +18,20 @@ for league_id, league_name in LEAGUES.items():
             if not stamp: continue
             try: kickoff = dt.datetime.fromisoformat(stamp.replace("Z", "+00:00"))
             except ValueError: continue
-            if kickoff.tzinfo is None: kickoff = kickoff.replace(tzinfo=dt.timezone.utc)
-            # Cache today and tomorrow to allow timezone boundaries and scheduled refreshes.
-                                   if not (now.date() <= kickoff.astimezone(ZoneInfo("Europe/London")).date() <= now.date()+dt.timedelta(days=14)): continue
-            fixtures.append({"id": str(event.get("idEvent") or ""), "league":league_name,
+            
+            if kickoff.tzinfo is None:
+                kickoff = kickoff.replace(tzinfo=dt.timezone.utc)
+
+            # Include fixtures for the next 14 days
+            if not (
+                now.date()
+                <= kickoff.astimezone(ZoneInfo("Europe/London")).date()
+                <= now.date() + dt.timedelta(days=14)
+            ):
+                continue
+
+            fixtures.append({
+
                 "home":event.get("strHomeTeam") or "", "away":event.get("strAwayTeam") or "",
                 "kickoff_utc":kickoff.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "broadcasters":[]})  # Add only independently verified broadcasters.
