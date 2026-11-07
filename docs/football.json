@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-07T12:59:23.364855+00:00",
+  "updated_at_utc": "2026-11-07T21:49:04.437575+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Fulham",
-      "away": "Newcastle United",
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "home": "Brighton and Hove Albion",
+      "away": "Brentford",
+      "kickoff_utc": "2026-11-08T14:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Watford",
-      "away": "Middlesbrough",
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "home": "Southampton",
+      "away": "Derby County",
+      "kickoff_utc": "2026-11-21T12:30:00Z",
       "broadcasters": []
     },
     {
@@ -27,9 +27,9 @@
       "broadcasters": []
     },
     {
-      "home": "St Johnstone",
-      "away": "Dundee",
-      "kickoff_utc": "2026-11-07T15:00:00Z",
+      "home": "Heart of Midlothian",
+      "away": "Falkirk",
+      "kickoff_utc": "2026-11-08T15:00:00Z",
       "broadcasters": []
     }
   ]
