@@ -1,11 +1,11 @@
 {
-  "updated_at_utc": "2026-11-08T13:22:52.591168+00:00",
+  "updated_at_utc": "2026-11-08T22:03:28.745181+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Brighton and Hove Albion",
-      "away": "Brentford",
-      "kickoff_utc": "2026-11-08T14:00:00Z",
+      "home": "Manchester City",
+      "away": "Fulham",
+      "kickoff_utc": "2026-11-21T12:30:00Z",
       "broadcasters": []
     },
     {
@@ -27,9 +27,9 @@
       "broadcasters": []
     },
     {
-      "home": "Heart of Midlothian",
-      "away": "Falkirk",
-      "kickoff_utc": "2026-11-08T15:00:00Z",
+      "home": "Celtic",
+      "away": "St Mirren",
+      "kickoff_utc": "2026-11-21T15:00:00Z",
       "broadcasters": []
     }
   ]
