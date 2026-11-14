@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-14T13:29:58.300696+00:00",
+  "updated_at_utc": "2026-11-14T22:22:32.445004+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
@@ -15,15 +15,15 @@
       "broadcasters": []
     },
     {
-      "home": "Leicester City",
-      "away": "Bradford City",
-      "kickoff_utc": "2026-11-14T15:00:00Z",
+      "home": "Barnsley",
+      "away": "Sheffield Wednesday",
+      "kickoff_utc": "2026-11-20T20:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Rotherham United",
-      "away": "Crawley Town",
-      "kickoff_utc": "2026-11-14T15:00:00Z",
+      "home": "Gillingham",
+      "away": "Crewe Alexandra",
+      "kickoff_utc": "2026-11-21T12:30:00Z",
       "broadcasters": []
     },
     {
