@@ -1,29 +1,29 @@
 {
-  "updated_at_utc": "2026-11-20T23:59:00.786668+00:00",
+  "updated_at_utc": "2026-11-21T14:38:21.042677+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Manchester City",
-      "away": "Fulham",
-      "kickoff_utc": "2026-11-21T12:30:00Z",
+      "home": "Bournemouth",
+      "away": "Nottingham Forest",
+      "kickoff_utc": "2026-11-21T15:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Southampton",
-      "away": "Derby County",
-      "kickoff_utc": "2026-11-21T12:30:00Z",
+      "home": "Wolverhampton Wanderers",
+      "away": "Charlton Athletic",
+      "kickoff_utc": "2026-11-21T15:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Reading",
-      "away": "Bromley",
-      "kickoff_utc": "2026-11-21T12:30:00Z",
+      "home": "Huddersfield Town",
+      "away": "Leicester City",
+      "kickoff_utc": "2026-11-21T15:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Gillingham",
-      "away": "Crewe Alexandra",
-      "kickoff_utc": "2026-11-21T12:30:00Z",
+      "home": "Northampton Town",
+      "away": "Rochdale",
+      "kickoff_utc": "2026-11-21T15:00:00Z",
       "broadcasters": []
     },
     {
