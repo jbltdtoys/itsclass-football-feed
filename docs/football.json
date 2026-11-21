@@ -1,35 +1,35 @@
 {
-  "updated_at_utc": "2026-11-21T14:38:21.042677+00:00",
+  "updated_at_utc": "2026-11-21T23:14:34.850590+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Bournemouth",
-      "away": "Nottingham Forest",
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "home": "Hull City",
+      "away": "Brighton and Hove Albion",
+      "kickoff_utc": "2026-11-22T14:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Wolverhampton Wanderers",
-      "away": "Charlton Athletic",
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "home": "Burnley",
+      "away": "Blackburn Rovers",
+      "kickoff_utc": "2026-11-22T12:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Huddersfield Town",
-      "away": "Leicester City",
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "home": "Bradford City",
+      "away": "Barnsley",
+      "kickoff_utc": "2026-11-24T19:45:00Z",
       "broadcasters": []
     },
     {
-      "home": "Northampton Town",
-      "away": "Rochdale",
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "home": "Port Vale",
+      "away": "Northampton Town",
+      "kickoff_utc": "2026-11-24T19:45:00Z",
       "broadcasters": []
     },
     {
-      "home": "Celtic",
-      "away": "St Mirren",
-      "kickoff_utc": "2026-11-21T15:00:00Z",
+      "home": "Hibernian",
+      "away": "Dundee",
+      "kickoff_utc": "2026-11-24T19:45:00Z",
       "broadcasters": []
     }
   ]
