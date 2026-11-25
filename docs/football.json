@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-24T17:42:20.750275+00:00",
+  "updated_at_utc": "2026-11-25T02:26:49.907022+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
@@ -9,27 +9,27 @@
       "broadcasters": []
     },
     {
-      "home": "Cardiff City",
-      "away": "Preston North End",
-      "kickoff_utc": "2026-11-24T19:45:00Z",
+      "home": "Watford",
+      "away": "Blackburn Rovers",
+      "kickoff_utc": "2026-11-25T19:45:00Z",
       "broadcasters": []
     },
     {
-      "home": "Bradford City",
-      "away": "Barnsley",
-      "kickoff_utc": "2026-11-24T19:45:00Z",
+      "home": "Doncaster Rovers",
+      "away": "Huddersfield Town",
+      "kickoff_utc": "2026-11-26T20:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Port Vale",
-      "away": "Northampton Town",
-      "kickoff_utc": "2026-11-24T19:45:00Z",
+      "home": "Bristol Rovers",
+      "away": "Tranmere Rovers",
+      "kickoff_utc": "2026-11-28T12:30:00Z",
       "broadcasters": []
     },
     {
-      "home": "Hibernian",
-      "away": "Dundee",
-      "kickoff_utc": "2026-11-24T19:45:00Z",
+      "home": "St Mirren",
+      "away": "Kilmarnock",
+      "kickoff_utc": "2026-11-28T15:00:00Z",
       "broadcasters": []
     }
   ]
