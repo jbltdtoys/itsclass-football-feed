@@ -1,35 +1,35 @@
 {
-  "updated_at_utc": "2026-11-28T01:27:20.345552+00:00",
+  "updated_at_utc": "2026-11-28T15:30:01.014226+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Manchester United",
-      "away": "Brentford",
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "home": "Ipswich Town",
+      "away": "Aston Villa",
+      "kickoff_utc": "2026-11-28T17:30:00Z",
       "broadcasters": []
     },
     {
-      "home": "Preston North End",
-      "away": "Norwich City",
-      "kickoff_utc": "2026-11-28T12:30:00Z",
+      "home": "Swansea City",
+      "away": "Cardiff City",
+      "kickoff_utc": "2026-11-29T12:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Milton Keynes Dons",
-      "away": "Notts County",
-      "kickoff_utc": "2026-11-28T12:30:00Z",
+      "home": "Leyton Orient",
+      "away": "Peterborough United",
+      "kickoff_utc": "2026-12-01T19:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Bristol Rovers",
-      "away": "Tranmere Rovers",
-      "kickoff_utc": "2026-11-28T12:30:00Z",
+      "home": "Northampton Town",
+      "away": "Fleetwood Town",
+      "kickoff_utc": "2026-12-01T19:45:00Z",
       "broadcasters": []
     },
     {
-      "home": "St Mirren",
-      "away": "Kilmarnock",
-      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "home": "Motherwell",
+      "away": "Hibernian",
+      "kickoff_utc": "2026-11-28T17:45:00Z",
       "broadcasters": []
     }
   ]
