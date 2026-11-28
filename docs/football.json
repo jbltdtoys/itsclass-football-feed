@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-27T16:39:06.427505+00:00",
+  "updated_at_utc": "2026-11-28T01:27:20.345552+00:00",
   "season": "2026-2027",
   "fixtures": [
     {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "kickoff_utc": "2026-11-27T20:00:00Z",
+      "home": "Manchester United",
+      "away": "Brentford",
+      "kickoff_utc": "2026-11-28T15:00:00Z",
       "broadcasters": []
     },
     {
-      "home": "Southampton",
-      "away": "Middlesbrough",
-      "kickoff_utc": "2026-11-27T20:00:00Z",
+      "home": "Preston North End",
+      "away": "Norwich City",
+      "kickoff_utc": "2026-11-28T12:30:00Z",
       "broadcasters": []
     },
     {
